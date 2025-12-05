@@ -1,0 +1,17 @@
+﻿# Dossiers système Windows
+.vscode/
+.vs/
+node_modules/
+dist/
+build/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Dossiers locaux
+OneDrive/
+.git/
